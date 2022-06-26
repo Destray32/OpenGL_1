@@ -1,3 +1,7 @@
 # OpenGL_1
--------------------------------------------------
-projekt opengl podstawy
+
+
+## Caution
+** unmaintained and not working propably **
+
+
